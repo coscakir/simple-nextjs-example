@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    padding: 10px 0;
+
+    a {
+        margin-right: 10px;
+        color: brown;
+        text-decoration: none;
+        font-weight: 500;
+        padding: 8px 16px;
+        background-color: rebeccapurple;
+        color: white;
+        border-radius: 4px;
+    }
+}

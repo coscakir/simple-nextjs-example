@@ -1,0 +1,17 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap";
+@import "partials/normalize";
+@import "partials/navigation";
+
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 20px
+}
+
+h1 {
+    color: rebeccapurple;
+}
